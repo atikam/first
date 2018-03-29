@@ -5,7 +5,7 @@ pipeline {
       steps {
         sh '''cd /tmp
 mkdir atikam
-touch hello'''
+touch hello2'''
       }
     }
   }
