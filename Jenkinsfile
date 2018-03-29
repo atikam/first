@@ -4,7 +4,7 @@ pipeline {
     stage('first') {
       steps {
         sh '''cd /tmp
-mkdir atikam
+mkdir atikam2
 touch hello2'''
       }
     }
